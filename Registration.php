@@ -1,1 +1,4 @@
-<?php echo ""[DDetails Comming Soon "; ?>
+<?php echo "Details Comming Soon "; 
+  ehco "This is about to published";
+?>
+
